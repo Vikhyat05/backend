@@ -2,7 +2,7 @@ require('dotenv').config()
 const express = require('express') // same thing as import express from "express"
 const app = express()
 
-const port = 3000 // This is a test comment to check the re connection
+const port = 3000
 
 const githubData = {
   "login": "Vikhyat05",
