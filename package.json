@@ -1,0 +1,20 @@
+{
+  "name": "backendcourse",
+  "version": "1.0.0",
+  "description": "Deploying simple node app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "course"
+  ],
+  "author": "vikhyat rana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
